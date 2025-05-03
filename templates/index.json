@@ -25,6 +25,12 @@
     "custom_news_section_blocks_zRHfar": {
       "type": "custom-news-section-blocks",
       "blocks": {
+        "block_article_LrFrVx": {
+          "type": "block_article",
+          "settings": {
+            "article": "news-blogs/aloha-daytra-collabo"
+          }
+        },
         "block_article_cjdy69": {
           "type": "block_article",
           "settings": {
@@ -57,6 +63,7 @@
         }
       },
       "block_order": [
+        "block_article_LrFrVx",
         "block_article_cjdy69",
         "block_article_F4JKHq",
         "block_article_MfA3zN",
