@@ -25,6 +25,12 @@
     "custom_news_section_blocks_zRHfar": {
       "type": "custom-news-section-blocks",
       "blocks": {
+        "block_article_cjdy69": {
+          "type": "block_article",
+          "settings": {
+            "article": "news-blogs/store-open"
+          }
+        },
         "block_article_F4JKHq": {
           "type": "block_article",
           "settings": {
@@ -51,6 +57,7 @@
         }
       },
       "block_order": [
+        "block_article_cjdy69",
         "block_article_F4JKHq",
         "block_article_MfA3zN",
         "block_article_f9NeU4",
